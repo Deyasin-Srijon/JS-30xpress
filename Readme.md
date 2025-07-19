@@ -44,7 +44,7 @@ As part of my learning journey, I’ve committed to building:
 
 1. Clone this repo:
    ```bash
-   git clone https://github.com/Deyasin-Srijon/js30-sparks.git
+   git clone https://github.com/Deyasin-Srijon/JS-30xpress.git
    ```
 2. Open any project folder
 3. Run `index.html` in your browser
