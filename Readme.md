@@ -1,5 +1,5 @@
 
-## 🧩 JS30xpress — 30 Mini JavaScript Projects
+# 🧩 JS30xpress — 30 Mini JavaScript Projects
 
 Welcome to **JS30xpress**, a collection of 30 mini JavaScript projects built to sharpen my skills, boost creativity, and have some fun while coding! ⚡
 
